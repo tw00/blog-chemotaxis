@@ -1,5 +1,7 @@
 # blog-chemotaxis
 
+Code for this [blog post](https://tw00.dev/post/other/chemoxtaxis/)
+
 ## Project setup
 ```
 yarn install
